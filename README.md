@@ -1,6 +1,6 @@
 # SardegnaAnnunci - sviluppo sito web
 
-## Definizione dei requisiti e delle specifiche (yadda yadda)
+## Definizione dei requisiti e delle specifiche
 
 Deve essere possibile:
 
@@ -9,7 +9,7 @@ Deve essere possibile:
 - inserire rubriche o articoli (solo admins), quindi parte blog;
 - visualizzare e scaricare il pdf della rivista.
 
-*La definizione è temporanea, possono sorgere ulteriori necessità*
+*La definizione è temporanea, possono nascere ulteriori necessità.*
 
 ## Gestione Utenti
 
