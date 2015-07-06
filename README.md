@@ -20,7 +20,7 @@ Requisiti:
 Suddivisi in:
 
 | Utente | diritti |
---------------------
+|-------:|---------|
 | utente base | può creare ed eliminare i propri annunci |
 | utente scrittore | oltre ai diritti di base può scrivere e cancellare articoli |
 | utente moderatore | oltre ai diritti di base può moderare annunci di altri utenti |
