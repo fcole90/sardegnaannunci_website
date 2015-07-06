@@ -59,10 +59,10 @@ Ogni upload dovrebbe avere associata l'immagine di copertina e un breve riassunt
 ## Scelta dell'ambiente operativo e degli strumenti di sviluppo
 
 - Webserver: Apache, standard de facto;
-- Linguaggio Backend: PHP, standard e presenta svariate librerie oppure Python, meno supportato ma ottimo linguaggio.
+- Linguaggio Backend: PHP, standard e presenta svariate librerie..
 - DB relazionale: MariaDB, MySQL, PostgreSQL. Salvo esigenze specifiche, MySQL è già presente in quasi tutti i servizi di hosting.
-- Framework UI: *Da definire*, deve essere responsive ed adattarsi alle interfacce per dispositivi mobili. 
-- Framework Backend: *Da definire*, deve essere ampiamente diffuso ma semplice ed adatto alle esigenze (forse YII per PHP o Django per Python).
+- Framework UI: [http://semantic-ui.com/](Semantic UI), [http://getbootstrap.com/2.3.2/](Bootstrap).
+- Framework Backend: Lavarel 5.1 oppure YII 2.
 
 ### Hosting
 
@@ -72,7 +72,11 @@ Attualmente disponibile hosting presso **godaddy**. Si può valutare un upgrade 
 
 **Settembre 2015**
 
+## Coding Style
+[http://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145](Scrivere JS di qualità (per quanto possibile).)
 
+#ToDo
+Devono apparire dei banner pubblicitari, dove metterli?
 
 
  
