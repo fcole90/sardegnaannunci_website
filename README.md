@@ -26,7 +26,7 @@ Suddivisi in:
 | utente moderatore | oltre ai diritti di base può moderare annunci di altri utenti |
 | admin | tutti i diritti |
 
-**NB** Se un moderatore nasconde l'annuncio di un altro moderatore, quest'ultimo non deve può annullare l'azione del primo.
+**NB:** Se un moderatore nasconde l'annuncio di un altro moderatore, quest'ultimo non deve poter annullare l'azione del primo.
 
 
 ### Gestione annunci
@@ -64,9 +64,13 @@ Ogni upload dovrebbe avere associata l'immagine di copertina e un breve riassunt
 - Framework UI: *Da definire*, deve essere responsive ed adattarsi alle interfacce per dispositivi mobili. 
 - Framework Backend: *Da definire*, deve essere ampiamente diffuso ma semplice ed adatto alle esigenze (forse YII per PHP o Django per Python).
 
-## Hosting
+### Hosting
 
 Attualmente disponibile hosting presso **godaddy**. Si può valutare un upgrade o sostituzione se le circostanze lo richiedano.
+
+## Consegna
+
+**Settembre 2015**
 
 
 
