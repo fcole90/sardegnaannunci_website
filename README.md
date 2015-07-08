@@ -39,6 +39,24 @@ Requisiti:
 - condivisione con i principali social network e via email
 - galleria immagini
 - possibilità di fare domande su un articolo in vendita (Amazon docet)
+- acquisto annunci speciali
+- pubblicità
+
+### Acquisto annunci
+
+Bisogna aggiungere la possibilità di aggiungere annunci premium, a pagamento,
+e definire che privilegi abbiano (es. maggior numero di foto, miglior posizionamento)
+e prevedere un metodo di pagamento.
+
+- gestione metodo pagamento
+- organizzazione speciale annunci
+- privilegi utenti a pagamento
+
+### Posizionamento pubblicitario
+
+Sono già in nostro possesso diverse pubblicità che devono apparire sulla rivista.
+Probabilmente la grafica sarà da rifare perché sono molto in stile web 1.1 (gif animate).
+Anche gli spazi pubblicitari devono poter essere acquistati online.
 
 ### Gestione rubriche
 
