@@ -26,6 +26,9 @@ Suddivisi in:
 | utente moderatore | oltre ai diritti di base può moderare annunci di altri utenti |
 | admin | tutti i diritti |
 
+Un utente si può iscrivere solo come utente base, solo l'admin può conferire maggiori diritti.
+I diritti potrebbero essere gestiti tramite flags.
+
 **NB:** Se un moderatore nasconde l'annuncio di un altro moderatore, quest'ultimo non deve poter annullare l'azione del primo.
 
 
@@ -51,6 +54,12 @@ e prevedere un metodo di pagamento.
 - gestione metodo pagamento
 - organizzazione speciale annunci
 - privilegi utenti a pagamento
+
+### Gestione Pagamenti
+
+Pagamenti PayPal, se necessario anche tramite Carta di Credito, da valutare in base
+alle esigenze delle persone della zona ed alla possibilità di pagare tramite PayPal
+senza registrazione.
 
 ### Posizionamento pubblicitario
 
@@ -90,7 +99,9 @@ Attualmente disponibile hosting presso **godaddy**. Si può valutare un upgrade 
 
 **Settembre 2015**
 
-## Coding Style
+## Mother.say() ? multilang : monolang;
+
+## Link utili per mantenere alta la qualità del codice
 [Scrivere JS di qualità (per quanto possibile).](http://code.tutsplus.com/tutorials/the-essentials-of-writing-high-quality-javascript--net-15145)
 
 #ToDo
